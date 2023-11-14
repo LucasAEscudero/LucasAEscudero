@@ -22,7 +22,7 @@ En el bootcamp de Henry he aprendido y manejado diversas tecnologias:
 - Sequelize
 - Git
 
-#### Contacto
+### Contacto
 
 - Email: lucasescudero5629@gmail.com
 - Telefono: +54 1 5512-8046
