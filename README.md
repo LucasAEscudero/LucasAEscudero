@@ -12,7 +12,6 @@ En el bootcamp de Henry he aprendido y manejado diversas tecnologias:
 
 - HTML
 - CSS
-- Bootstrap
 - JavaScript
 - React
 - Redux
