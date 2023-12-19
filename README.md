@@ -24,7 +24,7 @@ En el bootcamp de Henry he aprendido y manejado diversas tecnologias:
 ### Contacto
 
 - Email: lucasescudero5629@gmail.com
-- Telefono: +54 1 5512-8046
+- Telefono: +54 11 5512-8046
 - LinkedIn: https://www.linkedin.com/in/lucas-escudero-54195322b/
 
 
