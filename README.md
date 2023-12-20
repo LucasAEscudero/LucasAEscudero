@@ -1,7 +1,4 @@
 ## Hola! Mi nombre es Lucas Escudero
-
-Tambien conocido como Slyder tanto en Git
-
 ### Quien soy?
 
 Soy un Desarrollador Web FullStack con orientacion en el backend, al que le apasiona aprender y seguir creciendo dentro del gran mundo de la informática.
