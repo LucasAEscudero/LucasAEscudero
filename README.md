@@ -9,10 +9,7 @@ Actualmente, estoy inmerso en mi viaje académico, persiguiendo una carrera en I
 
 ## 📚 Siempre Aprendiendo y Creciendo
 
-Mi filosofía de vida se basa en la constante búsqueda del aprendizaje 📚. Por eso mismo, estoy centrado en aprender y estudiar tecnologías clave como Bootstrap para la creación de interfaces atractivas, Typescript para un desarrollo más robusto y MongoDB para expandir mis habilidades en el manejo de bases de datos NoSQL.
-  
-
-<br/>  
+Mi filosofía de vida se basa en la constante búsqueda del aprendizaje 📚. Por eso mismo, estoy centrado en aprender y estudiar tecnologías clave como Bootstrap para la creación de interfaces atractivas, Typescript para un desarrollo más robusto y MongoDB para expandir mis habilidades en el manejo de bases de datos NoSQL.  
 
 ## 🛠️ Mi stack tecnologico 💻
 <table><tr><td valign="top" width="33%">
@@ -51,8 +48,6 @@ Mi filosofía de vida se basa en la constante búsqueda del aprendizaje 📚. Po
 
 </td></tr></table>  
 
-<br/>   
-
 ## 🌐 Conecta conmigo!
 <div align="left">
 <a href="https://github.com/LucasAEscudero" target="_blank">
@@ -60,6 +55,8 @@ Mi filosofía de vida se basa en la constante búsqueda del aprendizaje 📚. Po
 </a> <br/>
 <a href="https://linkedin.com/in/lucas-escudero-54195322b" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
+</a> <br/>
+<span>📞 +54 11 5512-8046</span> <br/>
+<span>📧 lucasescudero5629@gmail.com</span>
+</div> 
 
