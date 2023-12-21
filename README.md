@@ -1,14 +1,20 @@
-### Hola! Mi nombre es Lucas Escudero  
+# Hola! Mi nombre es Lucas Escudero 🌐💻  
+## 🚀 Quien soy?
   
+Soy un apasionado Desarrollador Web FullStack con un ferviente deseo de explorar y expandir mis habilidades en el vasto universo de la informática. Mi enfoque se centra en la mejora continua, tanto en mi carrera como en todos los aspectos de mi vida.
 
-Soy un Desarrollador Web FullStack a la que le apasiona aprender y seguir creciendo dentro del gran mundo de la informática, con el objetivo de especializarme en lo que me apasiona: el backend. Actualmente, me encuentro estudiando la carrera de Ingeniería en Informática para dedicarme de lleno al mundo de la computación en un futuro.
-Actualmente me encuentro buscando trabajo en el área del desarrollo web mientras aprendo Bootstrap, Typescript y MongoDB.  
+## 🎓 Estudiante de Ingeniería en Informática
+
+Actualmente, estoy inmerso en mi viaje académico, persiguiendo una carrera en Ingeniería en Informática 🎓. Esta travesía no solo es un medio para adquirir conocimientos teóricos, sino también un impulso para sumergirme completamente en el fascinante mundo de la computación en el futuro.
+
+## 📚 Siempre Aprendiendo y Creciendo
+
+Mi filosofía de vida se basa en la constante búsqueda del aprendizaje 📚. Por eso mismo, estoy centrado en aprender y estudiar tecnologías clave como Bootstrap para la creación de interfaces atractivas, Typescript para un desarrollo más robusto y MongoDB para expandir mis habilidades en el manejo de bases de datos NoSQL.
   
 
 <br/>  
 
-
-## Mi stack tecnologico  
+## 🛠️ Mi stack tecnologico 💻
 <table><tr><td valign="top" width="33%">
 
 
@@ -45,30 +51,15 @@ Actualmente me encuentro buscando trabajo en el área del desarrollo web mientra
 
 </td></tr></table>  
 
-<br/>  
-
-## Estaditicas GitHub 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=LucasAEscudero&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<br/> 
-
-
-## Conecta conmigo!
-<div align="center">
-<a href="https://github.com/LucasAEscudero" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/lucas-escudero-54195322b" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
 <br/>   
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=LucasAEscudero&&style=flat-square" align="center" />
+## 🌐 Conecta conmigo!
+<div align="left">
+<a href="https://github.com/LucasAEscudero" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a> <br/>
+<a href="https://linkedin.com/in/lucas-escudero-54195322b" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 </div>  
 
