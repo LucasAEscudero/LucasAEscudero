@@ -1,7 +1,6 @@
 ## Hola! Mi nombre es Lucas Escudero
 ### Quien soy?
-
-Soy un Desarrollador Web FullStack con orientacion en el backend, al que le apasiona aprender y seguir creciendo dentro del gran mundo de la informática.
+Soy un Desarrollador Web FullStack a la que le apasiona aprender y seguir creciendo dentro del gran mundo de la informática, con el objetivo de especializarme en lo que me apasiona: el backend. Actualmente, me encuentro estudiando la carrera de Ingeniería en Informática para dedicarme de lleno al mundo de la computación en un futuro.
 
 ### Que tecnologias uso?
 
