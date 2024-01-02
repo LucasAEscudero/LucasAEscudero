@@ -48,6 +48,10 @@ Mi filosofía de vida se basa en la constante búsqueda del aprendizaje 📚. Po
 
 </td></tr></table>  
 
+## 📈 Estadisticas
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasAEscudero)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🌐 Conecta conmigo!
 <div align="left">
 <a href="https://github.com/LucasAEscudero" target="_blank">
